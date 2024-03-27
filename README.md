@@ -4,28 +4,6 @@
 
 The Nmap lab walkthrough aimed to provide practical experience in using Nmap, a powerful network scanning tool, for reconnaissance and enumeration tasks. Participants were guided through exercises covering basic Nmap commands, advanced scanning techniques, service version detection, and script scanning.
 
-<b> Learning Nmap Switches:</b>
-- Recognized and explained key Nmap switches for SYN scan, UDP scan, OS detection, version detection, verbosity control, output formatting, script activation, timing templates, and port specification.
-
-<b> Scan Types Training:</b>
-
-- Differentiated between basic (TCP Connect Scans, SYN Scans, UDP Scans) and less common port scan types.
-- Highlighted advantages and disadvantages of each scan type.
-
-<b> Detailed Explanations on Scan Types:</b>
-
-- Elaborated on TCP Connect Scans, SYN Scans, and UDP Scans, including their interaction with target systems and potential outcomes.
-
-<b> Working with NSE Scripts:</b>
-
-- Utilized Nmap Scripting Language (NSE) for expanding Nmap functionality.
-- Demonstrated script execution and searching methods for NSE scripts.
-
-<b> Firewall Evasion Techniques:</b>
-
-- Explored techniques for bypassing firewalls using stealthier scans and avoiding ICMP blocks.
-- Discussed the usage of the -Pn flag in Nmap to bypass ICMP blocks.
-<br />
 
 
 <h2>Achievements:</h2>
