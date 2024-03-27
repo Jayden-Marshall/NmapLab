@@ -2,10 +2,7 @@
 
 <h2>Description</h2>
 
-<b> Understanding Nmap:</b>
-
-- Identified networking constructs directing traffic to server applications.
-- Researched and provided information on available ports and "well-known" port numbers.
+The Nmap lab walkthrough aimed to provide practical experience in using Nmap, a powerful network scanning tool, for reconnaissance and enumeration tasks. Participants were guided through exercises covering basic Nmap commands, advanced scanning techniques, service version detection, and script scanning.
 
 <b> Learning Nmap Switches:</b>
 - Recognized and explained key Nmap switches for SYN scan, UDP scan, OS detection, version detection, verbosity control, output formatting, script activation, timing templates, and port specification.
@@ -33,16 +30,17 @@
 
 <h2>Achievements:</h2>
 
-- Successfully completed a comprehensive lab of the Tryhackme room "FurtherNmap," covering essential concepts and practical applications of Nmap
-- Demonstrated proficiency in utilizing Nmap switches, understanding different port scan types, and employing NSE scripts for network reconnaissance
-- Enhanced understanding of firewall evasion techniques and their significance in penetration testing scenarios
+- Successfully executed a variety of Nmap commands and scans, including TCP and UDP scans, SYN scans, and version detection, enhancing proficiency in using Nmap for network reconnaissance
+- Explored advanced scanning techniques such as OS fingerprinting, service version detection, and script scanning, expanding knowledge of Nmap's capabilities and its utility in identifying network vulnerabilities
+- Effectively identified open ports and running services on target systems, facilitating accurate assessment of network configurations and potential security risks
+- Leveraged Nmap scripts to automate enumeration tasks and gather additional information about target systems, showcasing proficiency in using scripting capabilities for efficient reconnaissance
 
 <h2>Skills Demonstrated: </h2>
 
-- Proficiency in Nmap usage and command-line operations.
-- Understanding of network protocols, port scanning techniques, and cybersecurity concepts.
-- Research abilities for gathering relevant information on networking tools and techniques.
-- Documentation and explanation skills to convey technical concepts effectively.
+- Demonstrated proficiency in conducting network reconnaissance using Nmap, including identifying open ports, services, and potential attack vectors within target environments
+- Developed skills in utilizing a variety of scanning techniques, such as TCP SYN scans, UDP scans, and version detection, to comprehensively assess network security posture
+- Enhanced ability to assess network vulnerabilities by analyzing Nmap scan results, identifying misconfigurations, and potential points of exploitation
+- Demonstrated competency in using Nmap scripting engine for automating enumeration tasks, enabling efficient data collection and analysis during network reconnaissance
 
 <h2>Program walk-through:</h2>
 
