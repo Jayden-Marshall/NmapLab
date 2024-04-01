@@ -2,7 +2,7 @@
 
 <h2>Description</h2>
 
-The Nmap lab walkthrough aimed to provide practical experience in using Nmap, a powerful network scanning tool, for reconnaissance and enumeration tasks. Participants were guided through exercises covering basic Nmap commands, advanced scanning techniques, service version detection, and script scanning.
+The Nmap lab walkthrough aimed to provide practical experience in using Nmap, a powerful network scanning tool, for reconnaissance and enumeration tasks. I was guided through exercises covering basic Nmap commands, advanced scanning techniques, service version detection, and script scanning.
 
 
 
