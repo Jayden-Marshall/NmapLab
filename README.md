@@ -43,7 +43,7 @@ Output of finding the correct NSE script:  <br/>
 <img src="https://github.com/Jayden-Marshall/NmapLab/assets/145166234/0a68fe2f-c10a-46cb-9887-c24e22ffc8cd" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-XMAS scan WITHOUT Firewall Evasion:  <br/>
+XMAS port scan without Firewall Evasion:  <br/>
 <img src="https://github.com/Jayden-Marshall/NmapLab/assets/145166234/ae96eafa-dc33-42e3-87c2-d76a1ba46914" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
