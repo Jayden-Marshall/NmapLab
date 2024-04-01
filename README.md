@@ -24,7 +24,8 @@ The Nmap lab walkthrough aimed to provide practical experience in using Nmap, a 
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="![task 2](https://github.com/Jayden-Marshall/NmapLab/assets/145166234/0dc1568b-1ad6-4096-a34c-458c599e9c88)
+"/>
 <br />
 <br />
 Select the disk:  <br/>
