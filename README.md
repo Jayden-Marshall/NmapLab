@@ -23,33 +23,32 @@ The Nmap lab walkthrough aimed to provide practical experience in using Nmap, a 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="![task 2](https://github.com/Jayden-Marshall/NmapLab/assets/145166234/0dc1568b-1ad6-4096-a34c-458c599e9c88)
-"/>
+Running Nmap to target IP: <br/>
+<img src="https://i.imgur.com/RjewlRT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Running commands with switches:  <br/>
+<img src="https://github.com/Jayden-Marshall/NmapLab/assets/145166234/aa3c8fab-b723-4d7d-9dda-28949a265a12" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Executing NSE scripts for the Nmap website: <br/>
+<img src="https://github.com/Jayden-Marshall/NmapLab/assets/145166234/9efcc73f-bf1e-4296-8bf0-f471da54e8b9" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Executing NSE scripts for the Nmap website Pt2:  <br/>
+<img src="https://github.com/Jayden-Marshall/NmapLab/assets/145166234/105d45f9-6f72-4e2b-a4c6-55b38a621db0" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Output of finding the correct NSE script:  <br/>
+<img src="https://github.com/Jayden-Marshall/NmapLab/assets/145166234/0a68fe2f-c10a-46cb-9887-c24e22ffc8cd" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+XMAS scan WITHOUT Firewall Evasion:  <br/>
+<img src="https://github.com/Jayden-Marshall/NmapLab/assets/145166234/ae96eafa-dc33-42e3-87c2-d76a1ba46914" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+SYN scan WITH Firewall Evasion (Nmap can login successfully to the FTP server on port 21):
+<img src="https://github.com/Jayden-Marshall/NmapLab/assets/145166234/af548b01-c58c-44ff-ab5c-888254c72901" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
